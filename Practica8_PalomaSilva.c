@@ -48,7 +48,7 @@ contrario, el precio es de 90¢. */
 #include<stdio.h>
 
 //Declaración de variables globales
-
+//Uso de variables: Saber cuántos lápices se comprarán y calcular precio
 int L;
 double res;
 
